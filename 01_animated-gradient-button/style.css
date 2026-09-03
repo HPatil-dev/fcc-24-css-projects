@@ -1,0 +1,39 @@
+
+body{
+        background: black;
+    margin:0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.button-border{
+    background:linear-gradient(to left ,#fff,#eeaf61);
+    padding: 3px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button-border:hover{
+    background: linear-gradient(to left, #ee5d6c ,#ce4993);
+     transform:scale(1.05) ;
+
+}
+
+
+button{
+    height: 100px;
+    width: 250px;
+    font-size: 35px;
+    color: white;
+    background: black;
+    border: 0px ;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
