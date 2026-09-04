@@ -11,7 +11,6 @@ body{
     height: 100vh;
 }
 
-
 .button-border{
     background:linear-gradient(to left ,#fff,#eeaf61);
     padding: 3px;
@@ -24,7 +23,6 @@ body{
      transform:scale(1.05) ;
 
 }
-
 
 button{
     height: 100px;
